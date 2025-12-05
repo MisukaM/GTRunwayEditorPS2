@@ -3,7 +3,7 @@ import os
 import struct
 import time
 
-print("GT4RNW4Editor - Made by Misuka. Based on research done by Nenkai. Further help from angel hunter!")
+print("GT4RNW4Editor - Made by Misuka. Based on research done by Nenkai. Further help from Hatersbby!")
 
 # header struct; based on research on the format by Nenkai.
 header_size_bytes = 0xC0  # 0xC0 header length
@@ -399,3 +399,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
